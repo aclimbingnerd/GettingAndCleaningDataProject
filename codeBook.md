@@ -75,3 +75,6 @@ fBodyBodyGyroMag-mean()
 fBodyBodyGyroMag-std()
 fBodyBodyGyroJerkMag-mean()
 fBodyBodyGyroJerkMag-std()
+
+
+Please see run_analysis.R for how the data was transformed into the tidyData sets
